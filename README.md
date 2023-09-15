@@ -1,3 +1,3 @@
 # lab_3_assignment
 
->  This line was added inside VS Code
+> This line was added for the devops git test.
